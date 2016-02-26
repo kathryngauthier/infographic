@@ -35,7 +35,7 @@ h2{
 
 .person{
   position: absolute;
-  right: 50%;
+  left: 30%;
   z-index: 100;
 }
 
@@ -47,8 +47,8 @@ h2{
 
 .ouch-2{
   position: relative;
-  top: 13%;
   left: 30%;
+
 }
 
 
