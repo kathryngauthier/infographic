@@ -34,15 +34,21 @@ h2{
 }
 
 .person{
-  position: relative;
-  left: 40%;
+  position: absolute;
+  right: 50%;
+  z-index: 100;
 }
 
-hr{
-	width: 85%;
-	height: 3px;
-	background-color: #336699;
-	border: none;
+.ouch{
+  position: relative;
+  top: 11%;
+  left: 35%;
+}
+
+.ouch-2{
+  position: relative;
+  top: 13%;
+  left: 30%;
 }
 
 
